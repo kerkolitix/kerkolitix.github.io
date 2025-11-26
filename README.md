@@ -1,9 +1,12 @@
+
 <br/>
 <br/>
+
+<img align="right" src="/assets/images/logo.png" alt="My Image">
+
 <br/>
 
 ### Hello!
-
 I'm Kerko, a passionate music artist who enjoys composing tracks for games and other media.
 
 <br/>
@@ -18,7 +21,7 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 
 ### Projects
 #### Game Jam Projects
-
+Protogen Run
 
 
 #### Personal Projects
