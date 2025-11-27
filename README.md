@@ -24,10 +24,12 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 **Protogen Run**<br/>
 Protogen Run was a small game jam game I made with a friend for the theme 'Out of Power'. I developed the art, music and coding while my friend did the ideation, planning and level design. I created three tracks for the game and decided on only using two of them. I developed these on Musescore and later refinded them on FL Studio.
 
-<iframe width="420" height="315"
+<iframe width="420" height="236"
 src="https://www.youtube.com/embed/-sBI8QArhXY">
 </iframe> 
 
-https://www.youtube.com/watch?v=-sBI8QArhXY
+<iframe width="420" height="236"
+src="https://www.youtube.com/embed/B4u-HUusBn4">
+</iframe> 
 
 #### Other Personal Projects
