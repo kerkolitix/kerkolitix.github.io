@@ -19,6 +19,8 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 
 > Musescore
 
+### Highlighted Project
+
 ### Projects
 #### Personal Projects
 
@@ -37,3 +39,5 @@ Your browser does not support the video tag.
   <source src="assets/audio/protogen_run/Level_Theme.mp3" type="audio/mpeg">
 Your browser does not support the video tag.
 </video> 
+
+### Contact Me
