@@ -23,6 +23,11 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 
 ### Projects
 #### Personal Projects
+**Untitled Track 2**<br/>
+
+**Untitled Track 1**<br/>
+
+**The Infection**<br/>
 
 #### Game Jam Projects
 **Protogen Run**<br/>
@@ -41,5 +46,11 @@ Your browser does not support the video tag.
 </video> 
 
 #### Arrangements
+**Penumbra Phantasm**<br/>
+
+**Black Knife**<br/>
+
+#### Public W.I.Ps
+**Project_4**<br/>
 
 ### Contact Me
