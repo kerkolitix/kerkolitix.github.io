@@ -26,7 +26,7 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 
 #### Game Jam Projects
 **Protogen Run**<br/>
-Protogen Run was a small game jam game I made with a friend for the theme 'Out of Power'. I developed the art, music and coding while my friend did the ideation, planning and level design. I created three tracks for the game and decided on only using two of them. I developed these on Musescore and later refinded them on FL Studio.
+Protogen Run was a small game jam game I made with a friend for the theme 'Out of Power'. I developed the art, music and coding while my friend did the ideation, planning and level design. I created three tracks for the game and decided on only using two of them. I developed these on Musescore and later refinded them on FL Studio. (04/06/2025)
 
 <video width="448" height="252" controls>
   <source src="assets/video/protogen_run/Main_Menu.mp4" type="video/mp4">
@@ -39,5 +39,7 @@ Your browser does not support the video tag.
   <source src="assets/audio/protogen_run/Level_Theme.mp3" type="audio/mpeg">
 Your browser does not support the video tag.
 </video> 
+
+#### Arrangements
 
 ### Contact Me
