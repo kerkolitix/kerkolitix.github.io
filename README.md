@@ -23,7 +23,7 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 **Stellar Circuit - Background Track (W.I.P)**<br/>
 (11/12/2025)
 <audio controls>
-  <source src="assets/audio/black_knife.mp3" type="audio/mpeg">
+  <source src="assets/audio/stellar_circuit/bg_track_1/bg_track_1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
 
@@ -80,7 +80,7 @@ Your browser does not support the video tag.
 
 **Black Knife**<br/>
 <audio controls>
-  <source src="assets/audio/black_knife.mp3" type="audio/mpeg">
+  <source src="assets/audio/black_knife_arrangement/black_knife.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
 
