@@ -20,25 +20,36 @@ I'm Kerko, a passionate music artist who enjoys composing tracks for games and o
 > Musescore
 
 ### Highlighted Project
+**Stellar Circuit - Background Track (W.I.P)**<br/>
+(11/12/2025)
+<audio controls>
+  <source src="assets/audio/black_knife.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
 ### Projects
 #### Personal Projects
 **Untitled Track 2**<br/>
 (03/12/2025)
 <video width="448" height="252" controls>
-  <source src="untitled_track_2.mp4" type="video/mp4">
-  <source src="untitled_track_2.mp3" type="audio/mpeg">
+  <source src="assets/video/untitled_track_2/untitled_track_2.mp4" type="video/mp4">
+  <source src="assets/audio/untitled_track_2/untitled_track_2.mp3" type="audio/mpeg">
 Your browser does not support the video tag.
 </video> 
 
 **Untitled Track 1**<br/>
 (26/11/2025)
+<video width="448" height="252" controls>
+  <source src="assets/video/untitled_track_1/untitled_track_1.mp4" type="video/mp4">
+  <source src="assets/audio/untitled_track_1/untitled_track_1.mp3" type="audio/mpeg">
+Your browser does not support the video tag.
+</video> 
 
 **The Infection**<br/>
 (11/01/2025)
 <video width="448" height="252" controls>
-  <source src="the_infection.mp4" type="video/mp4">
-  <source src="the_infection.mp3" type="audio/mpeg">
+  <source src="assets/video/the_infection/the_infection.mp4" type="video/mp4">
+  <source src="assets/audio/the_infection/the_infection.mp3" type="audio/mpeg">
 Your browser does not support the video tag.
 </video> 
 
@@ -62,14 +73,22 @@ Your browser does not support the video tag.
 **Penumbra Phantasm**<br/>
 (10/08/2025)
 <video width="448" height="252" controls>
-  <source src="penumbra_phantasm_arrangement.mp4" type="video/mp4">
-  <source src="penumbra_phantasm_arrangement.mp3" type="audio/mpeg">
+  <source src="assets/video/penumbra_phantasm_arrangement/penumbra_phantasm_arrangement.mp4" type="video/mp4">
+  <source src="assets/audio/penumbra_phantasm_arrangement/penumbra_phantasm_arrangement.mp3" type="audio/mpeg">
 Your browser does not support the video tag.
 </video> 
 
 **Black Knife**<br/>
+<audio controls>
+  <source src="assets/audio/black_knife.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
 #### Public W.I.Ps
-**Project_4**<br/>
+**Untitled Track 3**<br/>
+<audio controls>
+  <source src="assets/audio/untitled_track_3/untitled_track_3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
 ### Contact Me
