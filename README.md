@@ -25,7 +25,7 @@ A background track I'm working on for a college game project, a small tower defe
 (11/12/2025)
 <audio controls>
   <source src="assets/audio/stellar_circuit/bg_track_1/bg_track_1.mp3" type="audio/mpeg">
-<p style="color:red;">Your browser does not support the audio element.</p>
+Your browser does not support the audio element.
 </audio> 
 
 ### Projects
