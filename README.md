@@ -100,6 +100,6 @@ Your browser does not support the audio element.
 
 ### Contact Me
 
-<a href="[url](https://bsky.app/profile/kerkolax.bsky.social)">Bluesky</a>: Kerko (@kerkolax.bsky.social)
-Youtube: 
-Musescore: 
+Bluesky: <a href="[url](https://bsky.app/profile/kerkolax.bsky.social)">Kerko (@kerkolax.bsky.social)</a> <br/>
+Youtube: <a href="[url](https://www.youtube.com/@KerkoLax)">Kerko (@KerkoLax)</a> <br/>
+Musescore: <a href="[url](https://musescore.com/user/90380806)">Kerko_</a>
