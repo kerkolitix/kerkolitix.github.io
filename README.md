@@ -99,3 +99,7 @@ Your browser does not support the audio element.
 </audio> 
 
 ### Contact Me
+
+<a href="[url](https://bsky.app/profile/kerkolax.bsky.social)">Bluesky</a>: Kerko (@kerkolax.bsky.social)
+Youtube: 
+Musescore: 
